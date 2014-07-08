@@ -1,3 +1,9 @@
 git init
-git branch 
-
+git config --list
+git config
+git add
+git unstage
+git commit -m 'msg'
+git branch topic
+git checkout topic
+git checkout master
