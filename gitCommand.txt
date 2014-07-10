@@ -7,3 +7,4 @@ git commit -m 'msg'
 git branch topic
 git checkout topic
 git checkout master
+git branch
