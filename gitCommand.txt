@@ -11,3 +11,4 @@ git rebase
 git rebase --continue
 git pull
 git fetch
+git commit --amend
