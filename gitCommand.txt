@@ -14,3 +14,8 @@ git fetch
 git commit --amend
 -- after git commmit on master
 -- git branck topic1-1 from topic1
+git branch topic1
+git branch topic2
+-- edit on branch topic2
+--git add  on topic1
+
