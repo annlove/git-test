@@ -13,3 +13,4 @@ git pull
 git fetch
 git commit --amend
 -- after git commmit on master
+-- git branck topic1-1 from topic1
