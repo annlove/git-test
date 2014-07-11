@@ -12,3 +12,7 @@ git rebase --continue
 git pull
 git fetch
 git commit --amend
+git branch topic1
+git branch topic2
+-- edit on branch topic2
+--git add  on topic1
