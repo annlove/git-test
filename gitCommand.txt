@@ -12,3 +12,4 @@ git rebase --continue
 git pull
 git fetch
 git commit --amend
+-- after git commmit on master
